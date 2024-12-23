@@ -4,6 +4,10 @@ This project implements parameter optimization for Support Vector Machines (SVM)
 
 ---
 
+## Authors
+
+- [@Guryansh](https://www.github.com/Guryansh)
+  
 ## Features
 
 1. **Dataset Analysis**:
@@ -55,4 +59,10 @@ The performance results for each train-test split are summarized below:
 | 9      | 0.99          | poly        | 8.91          | 5.05                   |
 | 10     | 0.99          | linear      | 8.34          | 3.46                   |
 
+The learning curve generated shows the convergence of the model's training and validation accuracy.
+
+![download (2)](https://github.com/user-attachments/assets/71cfce21-0182-4820-aa81-d28134fc2f55)
+
 ---
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
